@@ -19,7 +19,7 @@ export const Navbar = () => {
                 <>
                     <Button variant="ghost" size="sm">
                         <Link href="/contents">
-                            Enter Ryo Hub
+                            Enter RyoHub
                         </Link>
                     </Button>
                 </>
